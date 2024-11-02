@@ -8,23 +8,17 @@
     
 ![A cute boy sitting beside a rangerover car whose numberplate is 9ne11 weari_20241101_081248_0000.jpg](https://github.com/user-attachments/assets/dee50586-8011-4189-a09f-ca7773c03a7e)
 
- href="https://github.com/Beltahk/SCENE-MRM"><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Huaweike/AUTOMATIC-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Huaweike/AUTOMATIC-BOT?&style=social"></a>
-<a href="https://github.com/Huaweike/AUTOMATIC-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Huaweike/AUTOMATIC-BOT?style=social"></a>
-<a href="https://github.com/Huaweike/AUTOMATIC-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social"></a>
+ 
   
 ***
 
-## WHAT IS FIXED ✨ 
-`AUTOREAD_MESSAGE`
-`AUTO_REACTION`
-`ANTI_DELETE_MESSAGE`
-`PLAY CMD`
-`VIDEO CMD`
-`AND MANY MORE`
+ 
+√AUTOREAD_MESSAGE`
+√AUTO_REACTION`
+√ANTI_DELETE_MESSAGE`
+√PLAY CMD`
+√VIDEO CMD`
+√AND MANY MORE`
 ✅ KEEP USING MY BOT ✅
 
 #### SETUP PROCEDURE
