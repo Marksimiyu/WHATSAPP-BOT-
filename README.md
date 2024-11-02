@@ -5,10 +5,10 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+MY+BOT;CREATED+BY+MARK+KING;RELEASED+2.11.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="MARK" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
-<p align="center">
-<p align="center">
-<a href="https://github.com/Beltahk/SCENE-MRM"><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
+    
+![A cute boy sitting beside a rangerover car whose numberplate is 9ne11 weari_20241101_081248_0000.jpg](https://github.com/user-attachments/assets/dee50586-8011-4189-a09f-ca7773c03a7e)
+
+ href="https://github.com/Beltahk/SCENE-MRM"><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
